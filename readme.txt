@@ -1,40 +1,11 @@
-Free Download Source Code "Bank Management System"
+ "Bank Management System"
 
-FIRST Download
+The Bank Management System is simple web application develop in PHP MySQL database, using JavaScript, HTML, CSS, Bootstrap, the system is very friendly user and simple to understand. The bank management system it contain of admin and user, the user have two types the user 1 is cashier, and the user 2 represent us member.
+In this Bank Management system application user can add new account number, and also add the some money he/she want and has to give his detail to create new account. We can withdraw the money .And can also see the account details and transaction history also
 
-1.XAMPP
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-3"bank"
 
-4. Download the zip file/ download winrar
 
-5. Extract the file and copy "bank" folder
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name mybank
-
-6. Import mybank.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/bank
-
-**LOGIN DETAILS** 
-
-Manager
-Username:   manager@manager.com
-Passwored:  manager
-
-Cashier
-Username :cashier@cashier.com
-Password :cashier
-
-User
-Username: some@gmail.com
-Password: some
-
-****** https://www.campcodes.com/ ******
-Subcribe to our Youtube Channel **** SerBermz ****
